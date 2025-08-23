@@ -7,10 +7,10 @@ Google AppSheet 教學
 
   + 大綱:
 
-  1. RWEPA簡介
-  2. 認識Google AppSheet
-  3. 建立第1個AppSheet範例
-  4. AppSheet介面
+1. RWEPA簡介
+2. 認識Google AppSheet
+3. 建立第1個AppSheet範例
+4. AppSheet介面
 
 + 參考資料:
 
