@@ -1,5 +1,6 @@
 # teaching-appsheet
-Google AppSheet 教學
+
+提供 Google AppSheet 教學資源
 
 # 第1章 AppSheet簡介
 
