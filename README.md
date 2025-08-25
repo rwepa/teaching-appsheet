@@ -18,6 +18,7 @@
 
   + AppSheet_Function_List.pdf: https://github.com/rwepa/teaching-appsheet/blob/main/AppSheet_Function_List.pdf
   + 參考: https://support.google.com/appsheet/table/10104782?hl=en
+  + 函數類型: 全部12個, Conditional, Date and time, Image, Informational, Link, List, Location, Logical, Math, Table, Text, Yes/No
 
 # 參考資料
 
