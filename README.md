@@ -14,7 +14,12 @@
     3. 建立第1個AppSheet範例
     4. AppSheet介面
 
-# 參考資料:
+# 函數總表
+
+  + AppSheet_Function_List.pdf: https://github.com/rwepa/teaching-appsheet/blob/main/AppSheet_Function_List.pdf
+  + 參考: https://support.google.com/appsheet/table/10104782?hl=en
+
+# 參考資料
 
 1. AppSheet產品中心: https://cloud.google.com/appsheet?hl=zh-TW
 
