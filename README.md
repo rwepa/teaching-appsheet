@@ -21,7 +21,7 @@
 
   + 大綱:
 
-  1.認識Data介面
+1.認識Data介面
 
     1.1 加入Data
   
@@ -29,9 +29,9 @@
   
     1.3 Type資料類型
 
-  2.Expression Assistant (運算式小幫手)
+2.Expression Assistant (運算式小幫手)
 
-  3.Virtual Column (虛擬欄位)
+3.Virtual Column (虛擬欄位)
 
   + 常用Expression Assistant (運算式小幫手): https://github.com/rwepa/teaching-appsheet/blob/main/ExpressionAssistant.pdf (5頁)
 
