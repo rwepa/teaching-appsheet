@@ -4,21 +4,23 @@
 
 # 第1章 AppSheet簡介
 
-  + PDF下載: https://github.com/rwepa/teaching-appsheet/blob/main/01_AppSheet_introduction.pdf
-  + appsheet_Excel範例來源檔: https://github.com/rwepa/teaching-appsheet/blob/main/appheet_data_source.xlsx
-
   + 大綱:
-
     1. RWEPA簡介
     2. 認識Google AppSheet
     3. 建立第1個AppSheet範例
     4. AppSheet介面
+  + PDF下載: https://github.com/rwepa/teaching-appsheet/blob/main/01_AppSheet_introduction.pdf
+  + appsheet_Excel範例來源檔: https://github.com/rwepa/teaching-appsheet/blob/main/appheet_data_source.xlsx
 
 # 函數總表
 
   + AppSheet_Function_List.pdf: https://github.com/rwepa/teaching-appsheet/blob/main/AppSheet_Function_List.pdf
   + 參考: https://support.google.com/appsheet/table/10104782?hl=en
   + 函數類型: 全部12個, Conditional, Date and time, Image, Informational, Link, List, Location, Logical, Math, Table, Text, Yes/No
+
+# 第2章 Data 資料源
+
+
 
 # 常用Expression Assistant (運算式小幫手)
 
