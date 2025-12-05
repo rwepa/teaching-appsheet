@@ -5,10 +5,12 @@
 # 第1章 AppSheet簡介
 
   + 大綱:
+
     1. RWEPA簡介
     2. 認識Google AppSheet
     3. 建立第1個AppSheet範例
     4. AppSheet介面
+
   + PDF下載: https://github.com/rwepa/teaching-appsheet/blob/main/01_AppSheet_introduction.pdf
   + appsheet_Excel範例來源檔: https://github.com/rwepa/teaching-appsheet/blob/main/appheet_data_source.xlsx
   + 函數總表: https://github.com/rwepa/teaching-appsheet/blob/main/AppSheet_Function_List.pdf
