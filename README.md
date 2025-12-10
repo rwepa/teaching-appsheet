@@ -34,7 +34,8 @@
 3.Virtual Column (虛擬欄位)
 
   + PDF下載: https://github.com/rwepa/teaching-appsheet/blob/main/02_AppSheet_data.pdf 
-  + 常用Expression Assistant (運算式小幫手): https://github.com/rwepa/teaching-appsheet/blob/main/ExpressionAssistant.pdf (5頁)  
+  + 常用Expression Assistant (運算式小幫手): 
+  https://github.com/rwepa/teaching-appsheet/blob/main/ExpressionAssistant.pdf (5頁)  
 
 # 參考資料
 
