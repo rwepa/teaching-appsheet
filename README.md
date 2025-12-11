@@ -37,6 +37,15 @@
   + 常用Expression Assistant (運算式小幫手): 
   https://github.com/rwepa/teaching-appsheet/blob/main/ExpressionAssistant.pdf (5頁)  
 
+# 第3章 Views (檢視)
+
+  + 大綱:
+
+1. Views 介面
+2. Views type 選項設定
+3. Format rules 格式規則
+4. Reference view 參考檢視
+
 # 參考資料
 
 1. AppSheet產品中心: https://cloud.google.com/appsheet?hl=zh-TW
