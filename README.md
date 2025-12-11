@@ -46,6 +46,8 @@
 3. Format rules 格式規則
 4. Reference view 參考檢視
 
+  + PDF下載: https://github.com/rwepa/teaching-appsheet/blob/main/03_AppSheet_views.pdf
+
 # 參考資料
 
 1. AppSheet產品中心: https://cloud.google.com/appsheet?hl=zh-TW
