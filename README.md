@@ -45,6 +45,7 @@
 2. Views type 選項設定
 3. Format rules 格式規則
 4. Reference view 參考檢視
+5. Share 分享
 
   + PDF下載: https://github.com/rwepa/teaching-appsheet/blob/main/03_AppSheet_views.pdf
 
